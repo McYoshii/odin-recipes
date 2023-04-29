@@ -1,2 +1,2 @@
 # odin-recipes
-For my odin project curriculum
+A fairly basic web page for my odin curriculum. This is my best attempt at displaying my design capabilities.
